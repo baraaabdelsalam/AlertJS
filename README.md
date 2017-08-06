@@ -52,3 +52,4 @@ git clone https://github.com/baraaabdelsalam/JSAlert.git
 # AlertJS
 # AlertJS
 # AlertJS
+# AlertJS
