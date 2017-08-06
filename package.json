@@ -1,0 +1,13 @@
+{
+  "name": "alertJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "author": "Baraa Abdelsalam",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-less": "^1.4.1",
+    "grunt-contrib-uglify": "^3.0.1"
+  }
+}
