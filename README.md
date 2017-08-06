@@ -51,3 +51,4 @@ git clone https://github.com/baraaabdelsalam/JSAlert.git
 3. write any text you want in "data-content"
 # AlertJS
 # AlertJS
+# AlertJS
