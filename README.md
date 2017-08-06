@@ -34,8 +34,6 @@ git clone https://github.com/baraaabdelsalam/JSAlert.git
 <button 
 		data-animate-start="bounceInRight" 
 		data-animate-end="bounceOutRight"
-		data-text-color="white"
-		data-bg-color="#00bcd4"
 		data-content="WinFooz Assignment"
 		onclick="makeAlert(this)" 
 		class="wf-alert-btn">
@@ -49,7 +47,27 @@ git clone https://github.com/baraaabdelsalam/JSAlert.git
 * default bg-color is black
 * default text-color is white
 3. write any text you want in "data-content"
-# AlertJS
-# AlertJS
-# AlertJS
-# AlertJS
+
+## Attributes
+1.data-animate-start ( Choose from [Animate.CSS](https://daneden.github.io/animate.css/))
+2.data-animate-end ( Choose from [Animate.CSS](https://daneden.github.io/animate.css/) )
+3.data-text-color ( Hexadecimal, rgb, rgba, names )
+4.data-bg-color ( Hexadecimal, rgb, rgba, names )
+5.data-content (text)
+6.data-placement (top,left,right)
+
+## Full Featured Example
+<button 
+		data-animate-start="bounceInRight" 
+		data-animate-end="bounceOutRight"
+		data-text-color="white"
+		data-bg-color="#00bcd4"
+		data-placement="right"
+		data-content="Top Right Alert"
+		data-btn-color = "red"
+		data-btn-text-color = "red"
+		onclick="makeAlert(this)" 
+		class="wf-alert-btn">
+		Top Right
+</button>
+
