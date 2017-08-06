@@ -57,6 +57,7 @@ git clone https://github.com/baraaabdelsalam/JSAlert.git
 6. data-placement (top,left,right)
 
 ## Full Featured Example
+```
 <button 
 		data-animate-start="bounceInRight" 
 		data-animate-end="bounceOutRight"
@@ -70,4 +71,5 @@ git clone https://github.com/baraaabdelsalam/JSAlert.git
 		class="wf-alert-btn">
 		Top Right
 </button>
+```
 
