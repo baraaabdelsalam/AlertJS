@@ -11,7 +11,7 @@ git clone https://github.com/baraaabdelsalam/JSAlert.git
 
 ## Author
 
-* **Baraa Abdelsalam** - [LinkedIn](https://www.linkedin.com/in/bara-abdel-salam-081ba589/)
+* **Baraa Abdelsalam** - [LinkedIn](https://www.linkedin.com/in/baraa-abdelsalam-081ba589/)
 
 
 ## Steps
